@@ -1,0 +1,1 @@
+uiW_window_close();
